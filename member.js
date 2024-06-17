@@ -1,4 +1,4 @@
-function SkillsMember() {
+function skillsMember() {
     const [skills, setSkills] = useState([]);
     const [loading, setLoading] = useState(true);
 
